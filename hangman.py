@@ -6,7 +6,7 @@ import random
 # Picks hangword from categories
 animals = ['ewe','gnu','dodo']
 flowers = ['poppy','lily','daisy']
-fruits = ['apple','kiwi','lime']
+fruits = ['banana','kiwi','lime']
 
 print 'Please select a category: '
 print '1) Animals'
